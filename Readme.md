@@ -27,4 +27,5 @@ Utilizei e aprendi
 
 ## :mega: Segue abaixo as principais interfaces:
 
-(https://user-images.githubusercontent.com/86633666/150553570-ddef0722-4f60-4561-a666-196c330c4413.gif)
+![hort](https://user-images.githubusercontent.com/86633666/150555780-8a10f668-8dab-4285-9d2c-008672dce5ae.gif)
+
